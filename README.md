@@ -18,5 +18,5 @@ This version uses a local camera plugged into the USB port.
 
 Trained face file taken from http://stevenhickson-code.googlecode.com/svn/trunk/AUI/Imaging/face.xml
 
-<br><i>python facedetect.py --cascade=face.xml 0</i></br>
+<br><i>python fd_python_openCV.py --cascade=face.xml 0</i></br>
 </ol>
